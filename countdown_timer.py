@@ -8,7 +8,7 @@ def countdown(t):
         time.sleep(1)
         t -= 1
 
-    print("Time to reach your goals!")
+    print("Time to achieve your goals!")
 
 t = input("Input the time in seconds: ")
 
